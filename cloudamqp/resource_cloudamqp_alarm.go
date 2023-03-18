@@ -3,7 +3,7 @@ package cloudamqp
 import (
 	"errors"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strconv"
 	"strings"
 

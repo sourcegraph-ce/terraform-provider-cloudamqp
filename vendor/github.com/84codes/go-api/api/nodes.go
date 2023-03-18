@@ -2,7 +2,7 @@ package api
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 )
 
 // ReadNodes - read out node information of the cluster
