@@ -3,7 +3,7 @@ package api
 import (
 	"errors"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"regexp"
 	"strconv"
 	"time"
